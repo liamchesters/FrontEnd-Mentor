@@ -1,3 +1,3 @@
-# Liam's FrontEnd Mentor Projects
+# FrontEnd Mentor Projects
 
 Here you'll find the FrontEnd Mentor "challenges" that I've attempted.
